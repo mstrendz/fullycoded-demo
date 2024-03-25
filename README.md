@@ -1,3 +1,4 @@
 # fullycoded-demo
-This is my first Git repository of my website FullyCoded
+This is the first Git repository for my website FullyCoded
+<br>
 Author - MS
